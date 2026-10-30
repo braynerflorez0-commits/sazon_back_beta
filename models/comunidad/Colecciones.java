@@ -11,6 +11,9 @@ public class Colecciones {
     private String descripcion;
     private List<String> elementos;
 
+
+
+    
     // Constructor vacío
     public Colecciones() {
         this.elementos = new ArrayList<>();

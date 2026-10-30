@@ -20,7 +20,7 @@ public class Colecciones {
     public Colecciones(int id, String nombre, String descripcion) {
         this.id = id;
         this.nombre = nombre;
-        this.descripcion = descripcion;
+        this.descripcion = descripcion; 
         this.elementos = new ArrayList<>();
     }
 

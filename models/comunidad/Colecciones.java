@@ -1,4 +1,4 @@
-  package models.comunidad;
+package models.comunidad;
 
 import java.util.ArrayList;
 import java.util.List;
